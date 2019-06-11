@@ -1,3 +1,5 @@
+Simple text messenger with contact list sorted by last added message. Personal messenger on the first place. Frontend —  React/Redux. Backend — Firebase web SDK.
+
 ![GitHub Logo](https://raw.githubusercontent.com/tarakanovvitaliy/temp/master/src/images/ssh_2.jpg)
 
 
