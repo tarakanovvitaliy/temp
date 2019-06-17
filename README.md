@@ -1,7 +1,9 @@
 Simple text messenger with contact list sorted by last added message.<br>
 Personal messenger on the first place.<br>
-Frontend —  React/Redux.<br>
-Backend — Firebase web SDK.<br>
+
+Fullstack development: React/Redux on front, Firebase web SDK on back.<br>
+Configuring webpack.<br>
+
 
 ![GitHub Logo](https://raw.githubusercontent.com/tarakanovvitaliy/temp/master/src/images/shot_3.jpg)
 
