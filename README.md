@@ -1,8 +1,6 @@
-Simple text messenger with contact list sorted by last added message.<br>
-Personal messenger on the first place.<br>
-
+Simple text messenger with contact list.<br>
 Fullstack development: React/Redux on front, Firebase web SDK on back.<br>
-Configuring webpack.<br>
+Configuring webpack. NoSQL cloud database. Store and sync data for client and server side. OAuth authentication. Security rules to secure data.<br>
 
 
 ![GitHub Logo](https://raw.githubusercontent.com/tarakanovvitaliy/temp/master/src/images/shot_3.jpg)
